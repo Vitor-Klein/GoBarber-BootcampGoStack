@@ -20,6 +20,7 @@
     "rules": {
       "no-use-before-define": "off",
       "class-method-use-this": "off",
+      "@typescript-eslint/camelecase": "off",
       "@typescript-eslint/no-use-before-define": [
         "error"
       ],
