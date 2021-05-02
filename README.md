@@ -77,7 +77,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/EliasGcf/gobarber-web.git && cd gobarber-web
+$ git clone https://github.com/Vitor-Klein/GoBarber-BootcampGoStack.git && cd gobarber-web
 ```
 
 **Follow the steps below**
@@ -100,7 +100,7 @@ $ yarn start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork EliasGcf/gobarber-web
+$ gh repo fork Vitor-Klein/GoBarber-BootcampGoStack
 ```
 
 **Follow the steps below**
@@ -127,4 +127,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by Elias Gabriel 👋 [See my linkedin](https://www.linkedin.com/in/eliasgcf/)
+Made with 💜 by Vitor klein 👋 [See my linkedin](https://www.linkedin.com/in/Vitor-Klein/)
