@@ -11,17 +11,17 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Vitor-Klein/GoBarber-BootcampGoStack?color=%23FF9000">
 
-  <a href="https://www.linkedin.com/in/eliasgcf/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/Vitor-Klein/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-elias%20gabriel-%23FF9000">
   </a>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Vitor-Klein/gobarber-webGoBarber-BootcampGoStack?color=%23FF9000">
 
-  <a href="https://github.com/EliasGcf/gobarber-web/commits/master">
+  <a href="https://github.com/Vitor-Klein/GoBarber-BootcampGoStack/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Vitor-Klein/GoBarber-BootcampGoStack?color=%23FF9000">
   </a>
 
-  <a href="https://github.com/EliasGcf/gobarber-web/issues">
+  <a href="https://github.com/Vitor-Klein/GoBarber-BootcampGoStack/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Vitor-Klein/GoBarber-BootcampGoStack?color=%23FF9000">
   </a>
 
@@ -72,7 +72,7 @@ Technologies that I used to develop this web client
 
 ### Requirements
 
-- Have this application's [API](https://github.com/EliasGcf/gobarber-api) running
+- Have this application's [API](https://github.com/Vitor-Klein/GoBarber-BootcampGoStack) running
 
 **Clone the project and access the folder**
 
