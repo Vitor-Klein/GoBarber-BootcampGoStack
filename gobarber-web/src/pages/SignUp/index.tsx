@@ -16,7 +16,6 @@ import schema from 'yup/lib/schema';
 const SignUp: React.FC = () => {
   const formRef = useRef<FormHandles>(null);
 
-
   const handleSubmit = useCallback(async(data: object) => {
     try{
       formRef.current?.setErrors({});
