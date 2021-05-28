@@ -124,3 +124,6 @@ After your pull request is merged, you can delete your branch
 ---
 
 Made with 💜 by Vitor klein 👋 [See my linkedin](https://www.linkedin.com/in/Vitor-Klein/)
+
+### #NeverStopLearning
+### #juntosparaoproximonivel
