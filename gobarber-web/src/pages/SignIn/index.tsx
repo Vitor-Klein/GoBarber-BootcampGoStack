@@ -1,10 +1,11 @@
-import React, { useRef, useCallback } from 'react';
+import React, { useRef, useCallback, useContext } from 'react';
 import { FiLogIn, FiMail, FiLock } from 'react-icons/fi';
-import { FormHandles } from '@unform/core'
-import { Form } from '@unform/web'
-import * as Yup from 'yup'
+import { FormHandles } from '@unform/core';
+import { Form } from '@unform/web';
+import * as Yup from 'yup';
 
-import getValidationErrors from '../../utils/getValidationErrors'
+import AuthContext from '../../context/AuthContext';
+import getValidationErrors from '../../utils/getValidationErrors';
 
 import logoImg from '../../assets/logo.svg';
 
@@ -16,6 +17,9 @@ import Button from "../../components/Button";
 const SignIn: React.FC = () => {
   const formRef = useRef<FormHandles>(null);
 
+  const { name } = useContext(AuthContext);
+
+  console.log(name)
 
   const handleSubmit = useCallback(async(data: object) => {
     try{
@@ -31,7 +35,7 @@ const SignIn: React.FC = () => {
       await schema.validate(data, {
         abortEarly: false
       });
-    }catch(err){ 
+    }catch(err){
       const errors = getValidationErrors(err)
 
       formRef.current?.setErrors(errors);
@@ -54,7 +58,7 @@ const SignIn: React.FC = () => {
             type="password"
             placeholder="Senha"
           />
-          
+
           <Button type="submit">Entrar</Button>
 
           <a href="forgot">Esqueci minha senha</a>
