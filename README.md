@@ -123,7 +123,7 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ---
 
