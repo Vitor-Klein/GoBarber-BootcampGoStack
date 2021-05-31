@@ -121,10 +121,9 @@ $ git push origin my-feature
 
 After your pull request is merged, you can delete your branch
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Made with 💜 by Vitor klein 👋 [See my linkedin](https://www.linkedin.com/in/Vitor-Klein/)
+
+### #NeverStopLearning
+### #juntosparaoproximonivel
